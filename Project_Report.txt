@@ -1,0 +1,18 @@
+STUDENT RECORD MANAGEMENT SYSTEM
+Core Java Mini Project
+
+Project Summary
+The Student Record Management System is a console-based application developed using Core Java. It allows users to add, view, search, update, and delete student records. The application uses classes, objects, encapsulation, ArrayList, methods, loops, conditional statements, and Scanner for input.
+
+Modules
+1. Add Student – collects ID, name, department, and marks.
+2. View Students – displays all available student records.
+3. Search Student – finds a record using student ID.
+4. Update Student – modifies a student's details.
+5. Delete Student – removes a record using student ID.
+
+Conclusion
+This project demonstrates the use of fundamental Core Java concepts to create a simple menu-driven application for managing student information.
+
+Limitation
+The records are stored in memory using ArrayList and are not saved after the program is closed.
